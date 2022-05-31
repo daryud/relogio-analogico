@@ -16,7 +16,7 @@ body {
   position: relative;
   height: 500px;
   width: 500px;
-  background: url("/image/relogio.png");
+  background: url("../image/relogio.png");
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
